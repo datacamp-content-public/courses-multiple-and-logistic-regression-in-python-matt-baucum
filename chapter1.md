@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Lesson 2.1: The logistic function and logistic regression
+
+```yaml
+type: VideoExercise
+key: 12be95a1ad
+xp: 50
+```
+
+`@projector_key`
+136a792db4290c0987ebbd4af679b4ee
